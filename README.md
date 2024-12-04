@@ -103,6 +103,14 @@ Execute the program using runserver command.
 ```
 # OUTPUT
 
+
+
+
+
+
+
+
+
 ![screencapture-file-C-Users-admin-Desktop-HTML-STARTING-POINT-timetable-html-2024-11-30-11_02_45](https://github.com/user-attachments/assets/a6ebeb74-a07b-4641-9a94-c5818fa08671)
 
 # RESULT
