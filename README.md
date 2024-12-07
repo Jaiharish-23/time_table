@@ -23,8 +23,18 @@ Add your timetable using <td> tag.
 Execute the program using runserver command.
 
 # PROGRAM
+views.py
 ```
-<html>
+from django.http import HttpResponse
+
+def timetable (request):
+    host = request.get_host()
+    port = host.split(':')[1]
+    print(f'The server is running on the port {port}')
+    print('GET request received...')
+    html_content = """
+          <!DOCTYPE html>
+<html lang="en">
     <head>
         <title>TIMETABLE</title>
         <link rel="icon" href="c:\Users\admin\Downloads\time-management-system.png">
@@ -138,9 +148,34 @@ Execute the program using runserver command.
         <MARQUEE> ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ DONE BY:JAI HARISH.R ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ </MARQUEE></h1>
     </body>
 </htmL>
+    """
+    response = HttpResponse(html_content, status=200) 
+    print(f'Status code {response.status_code}')
+    print('HTML response sent successfully.')
+    return response
+```
+urls.py (app)
+```
+from django.urls import path
+from .views import timetable
+
+urlpatterns = [
+    path('', timetable, name='timetable'),
+]
+```
+urls.py (project)
+```
+from django.contrib import admin
+from django.urls import path ,include
+
+urlpatterns = [
+    path('admin/', admin.site.urls),
+    path('timetable/', include('app.urls')),
+]
 ```
 # OUTPUT
 ![screencapture-file-C-Users-admin-Desktop-HTML-STARTING-POINT-timetable-html-2024-11-30-11_02_45](https://github.com/user-attachments/assets/a6ebeb74-a07b-4641-9a94-c5818fa08671)
+![{4C73C46E-0F55-4AF5-B92F-332E0F84A851}](https://github.com/user-attachments/assets/ef8ad9a3-826a-42dc-b697-43d89694b4a8)
 
 # RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
