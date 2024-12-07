@@ -105,27 +105,34 @@ Execute the program using runserver command.
                     <TH>S.NO:</TH><TH>COURSE CODE</TH> <TH>COURSE NAME</TH>
                 </TR>
                 <TR>
-                    <TD>1.</TD> <TD>19AI1301</TD> <TD>PYT-PYTHON PROGRAMMING</TD>
+                    <TD>1.</TD> <TD>19AI1301</TD>
+                    <TD>PYT-PYTHON PROGRAMMING</TD>
                 </TR>
                 <TR>
-                    <TD>2.</TD> <TD>19CY205</TD> <TD>CHEM-PRINCIPLES OF CHEMISTRY IN ENGINEERING</TD>
+                    <TD>2.</TD> <TD>19CY205</TD>
+                    <TD>CHEM-PRINCIPLES OF CHEMISTRY IN ENGINEERING</TD>
                 </TR>
                 <TR>
-                    <TD>3.</TD> <TD>19EE404</TD> <TD>DIGE-DIGITAL ELECTRONIC</TD>
+                    <TD>3.</TD> <TD>19EE404</TD>
+                    <TD>DIGE-DIGITAL ELECTRONIC</TD>
                 </TR>
                 <TR>
-                    <TD>4.</TD> <TD>19AI414</TD> <TD>WEB-FUNDAMENTALS OF WEB APPLICATION DEVELOPMENT</TD>
+                    <TD>4.</TD> <TD>19AI414</TD>
+                    <TD>WEB-FUNDAMENTALS OF WEB APPLICATION DEVELOPMENT</TD>
                 </TR>
                 <TR>
-                    <TD>5.</TD> <TD>19MA201</TD> <TD>>CAL-CALCULUS AND MATRIX ALGEBRA</TD>
+                    <TD>5.</TD> <TD>19MA201</TD>
+                    <TD>>CAL-CALCULUS AND MATRIX ALGEBRA</TD>
                 </TR>
                 <TR>
-                    <TD>6.</TD> <TD>ECA-M-SCOFT</TD> <TD>MEN-MENTOR MEET</TD>
+                    <TD>6.</TD> <TD>ECA-M-SCOFT</TD>
+                    <TD>MEN-MENTOR MEET</TD>
                 </TR>
             
             </TABLE>
         </CENTER>
-        <h1 style="background-color:whEAT;"><marquee>ִִֶֶָָ𓂃 ࣪˖ ִֶָ🐇་༘࿐ִֶָ𓂃 ࣪˖ ִֶָ🐇་༘࿐ִֶָ𓂃 ࣪˖ ִֶָ🐇་༘࿐ִֶָ𓂃 ࣪˖ ִֶָ🐇་༘࿐ִֶָ𓂃 ࣪˖ ִֶָ🐇་༘</marquee></h1>
+        <h1 style="background-color:whEAT;">
+        <marquee>ִִֶֶָָ𓂃 ࣪˖ ִֶָ🐇་༘࿐ִֶָ𓂃 ࣪˖ ִֶָ🐇་༘࿐ִֶָ𓂃 ࣪˖ ִֶָ🐇་༘࿐ִֶָ𓂃 ࣪˖ ִֶָ🐇་༘࿐ִֶָ𓂃 ࣪˖ ִֶָ🐇་༘</marquee></h1>
             
         <h1 ALIGN="RIGHT"  STYLE="COLOR: BLACK ;background-color:whitesmoke;">
         <MARQUEE> ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ DONE BY:JAI HARISH.R ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ </MARQUEE></h1>
