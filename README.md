@@ -49,7 +49,7 @@ Execute the program using runserver command.
             <HR>
             <table BORDER="1" WIDTH="1500" HEIGHT="600" STYLE="background-color:rgb(255, 0, 111);">
                 <tr>
-                    <td bgcolor="AQUA">DAY/TIME</td> <td bgcolor="AQUA">8AM-10AM</td> <td bgcolor="AQUA">10AM-12PM</td>
+                    <td bgcolor="AQUA">DAY/TIME</td> <td bgcolor="AQUA">8AM-10AM</td><td bgcolor="AQUA">10AM-12PM</td>
                     <td bgcolor="AQUA">12PM-1PM</td> <td bgcolor="AQUA">1PM-3PM</td> <td bgcolor="AQUA">3PM-5PM</td> 
                 </tr>
                 <tr>
@@ -69,7 +69,8 @@ Execute the program using runserver command.
                     <TD bgcolor="AQUA">FRIDAY</TD> <td>CHEM</td> <td>WEB</td>  <td>CAL</td> <td>FREE SLOT</td> 
                 </TR>
                 <TR>
-                   <TD bgcolor="AQUA">SATURDAY</TD> <td>FREE SLOT</td> <td>WEB</td>  <td>FREE SLOT</td> <td>FREE SLOT</td> 
+                   <TD bgcolor="AQUA">SATURDAY</TD> <td>FREE SLOT</td> <td>WEB</td>
+                    <td>FREE SLOT</td> <td>FREE SLOT</td> 
                 </TR>
             
             </table>
