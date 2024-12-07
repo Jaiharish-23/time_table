@@ -49,29 +49,54 @@ Execute the program using runserver command.
             <HR>
             <table BORDER="1" WIDTH="1500" HEIGHT="600" STYLE="background-color:rgb(255, 0, 111);">
                 <tr bgcolor="AQUA">
-                    <td >DAY/TIME</td> <td>8AM-10AM</td><td>10AM-12PM</td>
-                    <td>12PM-1PM</td> <td >1PM-3PM</td> <td>3PM-5PM</td> 
+                    <td >DAY/TIME</td>
+                    <td>8AM-10AM</td>
+                    <td>10AM-12PM</td>
+                    <td>12PM-1PM</td>
+                    <td >1PM-3PM</td>
+                    <td>3PM-5PM</td> 
                 </tr>
                 <tr>
-                    <td bgcolor="AQUA">MONDAY</td> <td>FREE SLOT</td> <td>PYT</td>
-                    <td rowspan="6"><CENTER><H4><span>LUNCH</span></H4></CENTER></td> <td>WEB</td> <td>FREE SLOT</td>
+                    <td bgcolor="AQUA">MONDAY</td>
+                    <td>FREE SLOT</td> <td>PYT</td>
+                    <td rowspan="6"><CENTER><H4><span>LUNCH</span></H4></CENTER></td>
+                    <td>WEB</td>
+                    <td>FREE SLOT</td>
                 </tr>
                 <tr>
-                    <td bgcolor="AQUA">TUESDAY</td> <td>FREE SLOT</td> <td>FREE SLOT</td>  <td>CHEM</td> <td>DIGE</td> 
+                    <td bgcolor="AQUA">TUESDAY</td>
+                    <td>FREE SLOT</td>
+                    <td>FREE SLOT</td>
+                    <td>CHEM</td>
+                    <td>DIGE</td> 
                 </tr>
                 <TR>
-                    <TD bgcolor="AQUA">WEDNESDAY</TD> <td>PYT</td> <td>CAL</td>  <td>MEN</td> <td>FREE SLOT</td> 
+                    <TD bgcolor="AQUA">WEDNESDAY</TD>
+                    <td>PYT</td>
+                    <td>CAL</td>
+                    <td>MEN</td>
+                    <td>FREE SLOT</td> 
                 </TR>
                 <TR>
-                    <TD bgcolor="AQUA">THURSDAY</TD> <td>FREE SLOT</td> <td>FREE SLOT</td>
-                    <td>DIGE</td> <td>FREE SLOT</td> 
+                    <TD bgcolor="AQUA">THURSDAY</TD>
+                    <td>FREE SLOT</td>
+                    <td>FREE SLOT</td>
+                    <td>DIGE</td>
+                    <td>FREE SLOT</td> 
                 </TR>
                 <TR>
-                    <TD bgcolor="AQUA">FRIDAY</TD> <td>CHEM</td> <td>WEB</td>  <td>CAL</td> <td>FREE SLOT</td> 
+                    <TD bgcolor="AQUA">FRIDAY</TD>
+                    <td>CHEM</td>
+                    <td>WEB</td>
+                    <td>CAL</td>
+                    <td>FREE SLOT</td> 
                 </TR>
                 <TR>
-                   <TD bgcolor="AQUA">SATURDAY</TD> <td>FREE SLOT</td> <td>WEB</td>
-                    <td>FREE SLOT</td> <td>FREE SLOT</td> 
+                   <TD bgcolor="AQUA">SATURDAY</TD>
+                    <td>FREE SLOT</td>
+                    <td>WEB</td>
+                    <td>FREE SLOT</td>
+                    <td>FREE SLOT</td> 
                 </TR>
             
             </table>
