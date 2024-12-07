@@ -175,7 +175,7 @@ urlpatterns = [
 ```
 # OUTPUT
 ![screencapture-file-C-Users-admin-Desktop-HTML-STARTING-POINT-timetable-html-2024-11-30-11_02_45](https://github.com/user-attachments/assets/a6ebeb74-a07b-4641-9a94-c5818fa08671)
-![{4C73C46E-0F55-4AF5-B92F-332E0F84A851}](https://github.com/user-attachments/assets/ef8ad9a3-826a-42dc-b697-43d89694b4a8)
+![{B7F7B902-B019-4E20-AB5E-E1241994774B}](https://github.com/user-attachments/assets/258291ea-9ed2-4acc-b535-6d84574f24aa)
 
 # RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
