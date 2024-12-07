@@ -44,14 +44,17 @@ Execute the program using runserver command.
         <center>
             <IMG SRC="c:\Users\admin\Downloads\saveetha_logo.png" width="600" height="100" border="4">
             <HR>
-            <H1 STYLE="COLOR: WHITE; background-color: rgb(7, 222, 255);"><MARQUEE>⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ ˖🗓️TIMETABLE🗓️⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ ˖</MARQUEE></H1>
+            <H1 STYLE="COLOR: WHITE; background-color: rgb(7, 222, 255);">
+            <MARQUEE>⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ ˖🗓️TIMETABLE🗓️⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ ˖</MARQUEE></H1>
             <HR>
             <table BORDER="1" WIDTH="1500" HEIGHT="600" STYLE="background-color:rgb(255, 0, 111);">
                 <tr>
-                    <td bgcolor="AQUA">DAY/TIME</td> <td bgcolor="AQUA">8AM-10AM</td> <td bgcolor="AQUA">10AM-12PM</td> <td bgcolor="AQUA">12PM-1PM</td> <td bgcolor="AQUA">1PM-3PM</td> <td bgcolor="AQUA">3PM-5PM</td> 
+                    <td bgcolor="AQUA">DAY/TIME</td> <td bgcolor="AQUA">8AM-10AM</td> <td bgcolor="AQUA">10AM-12PM</td>
+                    <td bgcolor="AQUA">12PM-1PM</td> <td bgcolor="AQUA">1PM-3PM</td> <td bgcolor="AQUA">3PM-5PM</td> 
                 </tr>
                 <tr>
-                    <td bgcolor="AQUA">MONDAY</td> <td>FREE SLOT</td> <td>PYT</td> <td rowspan="6"><CENTER><H4><span>LUNCH</span></H4></CENTER></td> <td>WEB</td> <td>FREE SLOT</td>
+                    <td bgcolor="AQUA">MONDAY</td> <td>FREE SLOT</td> <td>PYT</td>
+                    <td rowspan="6"><CENTER><H4><span>LUNCH</span></H4></CENTER></td> <td>WEB</td> <td>FREE SLOT</td>
                 </tr>
                 <tr>
                     <td bgcolor="AQUA">TUESDAY</td> <td>FREE SLOT</td> <td>FREE SLOT</td>  <td>CHEM</td> <td>DIGE</td> 
@@ -95,9 +98,10 @@ Execute the program using runserver command.
             
             </TABLE>
         </CENTER>
-        <h1 style="background-color:whEAT;"><marquee>ִֶָ𓂃 ࣪˖ ִֶָ🐇་༘࿐ִֶָ𓂃 ࣪˖ ִֶָ🐇་༘࿐ִֶָ𓂃 ࣪˖ ִֶָ🐇་༘࿐ִֶָ𓂃 ࣪˖ ִֶָ🐇་༘࿐ִֶָ𓂃 ࣪˖ ִֶָ🐇་༘࿐ִֶָ𓂃 ࣪˖ ִֶָ🐇་༘࿐ִֶָ𓂃 ࣪˖ ִֶָ🐇་༘࿐ִֶָ𓂃 ࣪˖ ִֶָ🐇་༘࿐ִֶָ𓂃 ࣪˖ ִֶָ🐇་༘࿐ִֶָ𓂃 ࣪˖ ִֶָ🐇་༘࿐ִֶָ𓂃 ࣪˖ ִֶָ🐇་༘࿐ִֶָ𓂃 ࣪˖ ִֶָ🐇་༘࿐ִֶָ𓂃 ࣪˖ ִֶָ🐇་༘࿐ִֶָ𓂃 ࣪˖ ִֶָ🐇་༘</marquee></h1>
+        <h1 style="background-color:whEAT;"><marquee>ִִֶֶָָ𓂃 ࣪˖ ִֶָ🐇་༘࿐ִֶָ𓂃 ࣪˖ ִֶָ🐇་༘࿐ִֶָ𓂃 ࣪˖ ִֶָ🐇་༘࿐ִֶָ𓂃 ࣪˖ ִֶָ🐇་༘࿐ִֶָ𓂃 ࣪˖ ִֶָ🐇་༘</marquee></h1>
             
-        <h1 ALIGN="RIGHT"  STYLE="COLOR: BLACK ;background-color:whitesmoke;"><MARQUEE> ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ DONE BY:JAI HARISH.R ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ </MARQUEE></h1>
+        <h1 ALIGN="RIGHT"  STYLE="COLOR: BLACK ;background-color:whitesmoke;">
+        <MARQUEE> ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ DONE BY:JAI HARISH.R ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ </MARQUEE></h1>
     </body>
 </htmL>
 ```
