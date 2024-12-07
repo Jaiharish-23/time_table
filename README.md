@@ -40,7 +40,7 @@ Execute the program using runserver command.
             }
         </style>
     </head>
-     <body style="color:WHITE;" background="c:\Users\admin\Downloads\natural-waterfall-landscape-desktop-wallpaper-preview.jpg">
+     <body style="color:WHITE;" background="c:\Users\admin\Downloads\natural.jpg">
         <center>
             <IMG SRC="c:\Users\admin\Downloads\saveetha_logo.png" width="600" height="100" border="4">
             <HR>
